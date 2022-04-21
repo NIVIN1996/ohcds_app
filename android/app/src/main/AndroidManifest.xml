@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.ohcds_mob_app">
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="ohcds_mob_app"
         android:name="${applicationName}"
